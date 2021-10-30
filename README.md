@@ -48,3 +48,5 @@ Geographic data, Greater London
 	nature reserve		03/2021	data.gov.uk - Local Nature Reserves (England)	https://data.gov.uk/dataset/acdf4a9e-a115-41fb-bbe9-603c819aa7f7/local-nature-reserves-england
 	
 	Indices of Deprivation	2019	London Datastore - Indices of Deprivation	https://data.london.gov.uk/dataset/indices-of-deprivation
+
+- *: Those kinds of data are not from open source, licenses are needed to use those datasets. 
