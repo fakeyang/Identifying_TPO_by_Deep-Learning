@@ -49,4 +49,4 @@ Geographic data, Greater London
 	
 	Indices of Deprivation	2019	London Datastore - Indices of Deprivation	https://data.london.gov.uk/dataset/indices-of-deprivation
 
-- *: Those kinds of data are not from open source, licenses are needed to use those datasets. 
+> *: Those kinds of data are not from open source, licenses are needed to use those datasets. 
